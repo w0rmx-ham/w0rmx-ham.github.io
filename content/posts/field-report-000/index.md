@@ -1,5 +1,5 @@
 ---
-title: "Field Report 0x000: Activating Sugar Loaf Mountain"
+title: "FR 0x000: Activating Sugar Loaf Mountain"
 date: 2024-12-14
 images: ["images/sugarloaf0.jpg"]
 ---
