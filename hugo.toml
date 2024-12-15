@@ -13,7 +13,7 @@ theme = "hugo-split-gallery"
   DefaultContentLanguage = "en"
 
   robots = "index, follow"
-  favicon = ""
+  favicon = true
   footnote = """
   <ul class='list-inline'>
     <li class='list-inline-item me-4'><a href='https://www.qrz.com/db/w0rmx'><i class='fa fa-globe fa-fw'></i>QRZ</a></li>
