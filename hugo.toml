@@ -1,0 +1,47 @@
+baseURL = 'https://w0r.mx/'
+languageCode = 'en-us'
+title = 'Field Reports from W0RMX'
+themesDir = "./themes/"
+theme = "hugo-split-gallery"
+
+[taxonomies]
+  location = "locations"
+  season = "seasons"
+
+[params]
+  subtitle = 'Field Reports from W0RMX'
+  DefaultContentLanguage = "en"
+
+  robots = "index, follow"
+  favicon = ""
+  description = "description"
+  #images = ["DSCF0348.jpg"]
+  # customCss = ['css/custom1.css', 'css/custom2.css']
+  # customJs = ['js/custom1.js', 'js/custom2.js']
+  # enableDownloadAll = false
+  footnote = "Foo bar"
+  includeOriginalImage = false
+  # largeImageSize = "2000x"
+  # siteLogo = ""
+  # useDefaultColors = true
+  # useDefaultFonts = true
+  galleryLoop = true
+  # galleryCounter = true
+  # galleryButtons = ["zoom", "slideShow", "close"]
+  # galleryAnimationEffect = "zoom"
+  # galleryAnimationDuration = 366
+  # galleryTransitionEffect = "fade"
+  # galleryTransitionDuration = 366
+  # gallerySlideshowSpeed = 3000
+  # sharedMediaBundle = "/media"
+  showTranslations = true
+  map2gpx = "en"
+  paginate = 10
+  # columns = 2
+  # columnsMinItems = 10
+
+  [params.taxonomies]
+    [params.taxonomies.locations]
+      icon = "location-arrow"
+    [params.taxonomies.seasons]
+      icon = "calendar"
