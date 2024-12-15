@@ -1,0 +1,3 @@
+[submodule "themes/hugo-split-gallery"]
+	path = themes/hugo-split-gallery
+	url = https://github.com/w0rmx-ham/w0rmx-ham.github.io.git
