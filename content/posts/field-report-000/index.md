@@ -23,10 +23,9 @@ Other Gear:
 WX: 0C almost no wind, sunny
 ```
 
-Conditions were good, but I totally forgot about the 10m contest
-until I turned on the radio! After getting a single contact on 10m
-I switched to 15m and had some luck there, including an S2S with
-KX0R on [Sheep Mountain](https://www.sotadata.org.uk/en/summit/W0C/FR-097) in CO
-and a S2P with NS1C at [Wompatuck State Park](https://pota.app/#/park/US-2465) in
-MA. Thanks for calling me George and Ken! Not as many contacts as my first time on
-this summit (pictures from both activations included), but I had fun! :)
+Conditions were good, but I totally forgot about the 10m contest until I got to the peak and turned on
+the radio! I gave up on 10m after getting a single contact in 40 minutes, but found some luck on other
+bands, including an S2S with KX0R on [Sheep Mountain](https://www.sotadata.org.uk/en/summit/W0C/FR-097)
+in CO and a S2P with NS1C at [Wompatuck State Park](https://pota.app/#/park/US-2465) in MA. Thanks for
+calling me George and Ken! Not as many contacts as my last time on this summit (pictures from both
+activations included), but I had fun anyway! :)
