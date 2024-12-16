@@ -30,6 +30,6 @@ I can finally place a tack on Finland - thanks guys! Other highlights included P
 KO4WFP at the  [Savannah National Wildlife Refuge](https://pota.app/#/park/US-0522), Tom KS4CR
 at the [Paris Mountain State Park](https://pota.app/#/park/US-2909), Ken K4KVC at the
 [Panasoffkee Outlet State Conservation Area](https://pota.app/#/park/US-6455), and James KE8PZN at the
-[Camp Creek State Park](https://pota.app/#/park/US-5584).
+[Camp Creek State Park](https://pota.app/#/park/US-5584). I was also lucky to get a call from W1AW!
 
 QSO Map powered by http://tools.adventureradio.de/analyzer/
