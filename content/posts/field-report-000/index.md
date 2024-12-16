@@ -1,5 +1,5 @@
 ---
-title: "FR 0x000: Activating Sugar Loaf Mtn"
+title: "FR 0x000: Sugar Loaf Mtn"
 date: 2024-12-14
 images: ["images/sugarloaf1.jpg"]
 tags: ["SOTA", "QRP", "CW"]
