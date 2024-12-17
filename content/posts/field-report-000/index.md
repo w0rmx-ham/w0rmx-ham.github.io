@@ -30,4 +30,5 @@ in CO and a S2P with NS1C at [Wompatuck State Park](https://pota.app/#/park/US-2
 calling me George and Ken! Not as many contacts as my last time on this summit (pictures from both
 activations included), but I had fun anyway! :)
 
+---
 QSO Map powered by http://tools.adventureradio.de/analyzer/

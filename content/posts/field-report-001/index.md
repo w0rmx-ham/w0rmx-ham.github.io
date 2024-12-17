@@ -26,10 +26,14 @@ Started my 50th activation at the Wolf Trap National Park with a bang, reaching 
 all the way in [CH-0039](https://pota.app/#/park/CH-0039), a park in Switzerland just north of
 Lausanne. Thank you Daniel for picking me out of the mud! Conditions were clearly excellent, as
 I proceeded to get 8 DX calls within the hour. Thanks to calls from Jouni OH2LIO and Pasi OH1HM,
-I can finally place a tack on Finland - thanks guys! Other highlights included P2P with Teri
-KO4WFP at the  [Savannah National Wildlife Refuge](https://pota.app/#/park/US-0522), Tom KS4CR
-at the [Paris Mountain State Park](https://pota.app/#/park/US-2909), Ken K4KVC at the
-[Panasoffkee Outlet State Conservation Area](https://pota.app/#/park/US-6455), and James KE8PZN at the
-[Camp Creek State Park](https://pota.app/#/park/US-5584). I was also lucky to get a call from W1AW!
+I can finally place a tack on Finland - thanks guys! Other highlights include a call from W1AW
+and following P2P:
 
+- Teri KO4WFP at the  [Savannah National Wildlife Refuge](https://pota.app/#/park/US-0522)
+- Tom KS4CR at the [Paris Mountain State Park](https://pota.app/#/park/US-2909)
+- Ken K4KVC at the [Panasoffkee Outlet State Conservation Area](https://pota.app/#/park/US-6455)
+- James KE8PZN at the [Camp Creek State Park](https://pota.app/#/park/US-5584)
+- Rick K4UI at the [Brigadoon State Nature Preserve](https://pota.app/#/park/US-7965)
+
+---
 QSO Map powered by http://tools.adventureradio.de/analyzer/
