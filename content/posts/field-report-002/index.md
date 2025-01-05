@@ -29,7 +29,7 @@ activation. The trees by the picnic area and parking are quite tall, but I spott
 antenna deployment. The downside is that you'll be right by a busy road. I didn't look too closely, but the 
 shelter looked a bit far from trees, so plan to bring some antenna support or a longer coax. I opted to go for
 a hike and activate in the forest. I've heard the trails can get quite muddy, but thankfully today they were dry
-which made for a pleaseant and easy hike. The forest has solid APRS coverage. To the west you can reach W4VA-13
+which made for a pleasant and easy hike. The forest has solid APRS coverage. To the west you can reach W4VA-13
 iGate directly, and to the east you can bounce your signal to W4VA-13 via KN4IJF-1 digipeater. I had no issues
 reaching APRS services and getting my beacon out throughout my hike and activation. The activation itself was fun
 and the weather was bearable if it wasn't for the brutal wind (or maybe I'm just an idiot for not wearing gloves).
