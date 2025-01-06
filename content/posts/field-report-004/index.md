@@ -42,7 +42,7 @@ CQ on 20m and in the next hour I clocked a little over 60 QSOs. Lots of P2P call
 - Anthony W2UD at the [US-6462 Garret Mountain Reservation State Park](https://pota.app/#/park/US-6462)
 - Aaron W8APS at the [US-3321 Ortonville State Recreation Area](https://pota.app/#/park/US-3321)
 - Dirk K5DGR at the [US-1052 Alamo Lake State Park](https://pota.app/#/park/US-1052)
-- Jonathan KD9TSA
+- Jonathan KD9TSA at the [US-0765 Indiana Dunes National Park](https://pota.app/#/park/US-0765)
 
 
 ---
