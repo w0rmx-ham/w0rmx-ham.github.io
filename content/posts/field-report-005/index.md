@@ -34,6 +34,7 @@ enjoyed a visit from a curious fox, which unfortunately I didn't have time to ca
 - Jim WB0RLJ at the [US-4011 Chalco Hills State Recreation Area](https://pota.app/#/park/US-4011)
 - Chris W4MPT at the [US-3723 Pickett's Mill Battlefield State Historic Site](https://pota.app/#/park/US-3723)
 - Jim WT5O at the [US-3568 Silver Strand State Beach](https://pota.app/#/park/US-3568)
+- Tripp N4NTO at the [US-6956 Tar River State Game Land](https://pota.app/#/park/US-6956)
 
 
 ---
