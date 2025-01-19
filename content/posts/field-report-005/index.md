@@ -18,6 +18,7 @@ Logging Gear:
     Rite in the Rain Notebook #935
     Rite in the Rain Metal Pen #97 
 Other Gear:
+    sofirn HS40 Headlamp
     Weaver Arborist 12oz throw weight and line
 WX: ~1C no wind, clear, sunny, light snow 
 ```
