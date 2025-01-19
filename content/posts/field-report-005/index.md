@@ -35,6 +35,7 @@ enjoyed a visit from a curious fox, which unfortunately I didn't have time to ca
 - Chris W4MPT at the [US-3723 Pickett's Mill Battlefield State Historic Site](https://pota.app/#/park/US-3723)
 - Jim WT5O at the [US-3568 Silver Strand State Beach](https://pota.app/#/park/US-3568)
 - Tripp N4NTO at the [US-6956 Tar River State Game Land](https://pota.app/#/park/US-6956)
+- Jeff W4JSH at the [US-2958 Montgomery Bell State Park](https://pota.app/#/park/US-2958)
 
 
 ---
