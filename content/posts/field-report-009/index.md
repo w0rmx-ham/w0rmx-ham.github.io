@@ -1,5 +1,5 @@
 ---
-title: "FR 0x009: Quechee State Park"
+title: "FR 0x009: Quechee Ste Park"
 date: 2025-07-12T20:04:00Z
 images: ["images/quechee0.jpg"]
 tags: ["POTA", "QRP", "CW"]
