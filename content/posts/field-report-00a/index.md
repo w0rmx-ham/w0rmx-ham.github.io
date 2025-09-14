@@ -43,7 +43,7 @@ to be in the neighborhood.
 
 Thanks to the P2P calls:
 
-- Derek KC3YYP
+- Derek KC3YYP at the [US-1355 French Creek State Park](https://pota.app/#/park/US-1355)
 
 ---
 QSO Map powered by https://qsomap.cqgma.org/ADIF_to_Karte.php
