@@ -43,9 +43,9 @@ theme = "hugo-split-gallery"
   # sharedMediaBundle = "/media"
   # showTranslations = true
   map2gpx = false
-  paginate = 10
-  # columns = 2
-  # columnsMinItems = 10
+  paginate = 100
+  columns = 2
+  columnsMinItems = 10
 
   [params.taxonomies]
     [params.taxonomies.locations]
